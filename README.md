@@ -58,10 +58,11 @@ where Social_smoker =0;
 #### This query found out there are 686 non smoker employees eligible for insurance budget of $983,221 USD. assuming 5 working days with 8 working hour and 52 weeks, per employee entitle for an additional $0.68 wage raise per hour.
 
 ## 3. Create a dashboard with the below approved wireframe 
+Approved wireframe from HR:
 
 ![image6](https://github.com/Winxent/HR-Analytics-on-Absenteeism-and-Health/assets/146320825/3418732d-6d35-40ce-a6e4-58bd4212e191)
 
-Dashboard refer to the link below or DASHBOARD
+Dashboard created from the datasets and wireframe:
 
 https://app.powerbi.com/reportEmbed?reportId=571161c0-2747-44d8-91e3-f6f8ae29b242&autoAuth=true&ctid=3a59e355-01e4-45dc-af92-5796b392d9f5
 
