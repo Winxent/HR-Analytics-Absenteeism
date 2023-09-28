@@ -5,6 +5,9 @@ Goal: Evaluating an HR dataset about absenteeism and health. To determine how to
 
 ![image1](https://github.com/Winxent/HR-Analytics-on-Absenteeism-and-Health/assets/146320825/821a862b-bf6a-40f3-a65b-372318a9fabf)
 
+Datasets given by HR:
+https://absentdata.com/wp-content/uploads/2023/09/Absenteeism_at_work-1.zip
+
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
 
 # Dashboard (PowerBI)
