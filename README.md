@@ -67,7 +67,7 @@ Approved wireframe from HR:
 
 Dashboard created from the datasets and wireframe:
 
-https://app.powerbi.com/reportEmbed?reportId=571161c0-2747-44d8-91e3-f6f8ae29b242&autoAuth=true&ctid=3a59e355-01e4-45dc-af92-5796b392d9f5
+[https://app.powerbi.com/reportEmbed?reportId=571161c0-2747-44d8-91e3-f6f8ae29b242&autoAuth=true&ctid=3a59e355-01e4-45dc-af92-5796b392d9f5](https://app.powerbi.com/links/DIhQdhqqL6?ctid=2d79876d-36b4-480d-acf1-9d0bca5b7eaa&pbi_source=linkShare&bookmarkGuid=74a9d6c4-c058-4a9f-bf40-27a6a97f4e06)
 
 
 
