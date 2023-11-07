@@ -12,7 +12,7 @@ https://absentdata.com/wp-content/uploads/2023/09/Absenteeism_at_work-1.zip
 
 # Dashboard (PowerBI)
 For interactive visualisation: 
-https://app.powerbi.com/reportEmbed?reportId=571161c0-2747-44d8-91e3-f6f8ae29b242&autoAuth=true&ctid=3a59e355-01e4-45dc-af92-5796b392d9f5
+[https://app.powerbi.com/reportEmbed?reportId=571161c0-2747-44d8-91e3-f6f8ae29b242&autoAuth=true&ctid=3a59e355-01e4-45dc-af92-5796b392d9f5](https://app.powerbi.com/links/DIhQdhqqL6?ctid=2d79876d-36b4-480d-acf1-9d0bca5b7eaa&pbi_source=linkShare&bookmarkGuid=74a9d6c4-c058-4a9f-bf40-27a6a97f4e06)
 
 ![image4](https://github.com/Winxent/HR-Analytics-on-Absenteeism-and-Health/assets/146320825/da29fc17-3764-48d9-9210-5822cafb289b)
 
@@ -65,9 +65,6 @@ Approved wireframe from HR:
 
 ![image6](https://github.com/Winxent/HR-Analytics-on-Absenteeism-and-Health/assets/146320825/3418732d-6d35-40ce-a6e4-58bd4212e191)
 
-Dashboard created from the datasets and wireframe:
-
-[https://app.powerbi.com/reportEmbed?reportId=571161c0-2747-44d8-91e3-f6f8ae29b242&autoAuth=true&ctid=3a59e355-01e4-45dc-af92-5796b392d9f5](https://app.powerbi.com/links/DIhQdhqqL6?ctid=2d79876d-36b4-480d-acf1-9d0bca5b7eaa&pbi_source=linkShare&bookmarkGuid=74a9d6c4-c058-4a9f-bf40-27a6a97f4e06)
 
 
 
